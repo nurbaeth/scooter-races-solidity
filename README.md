@@ -5,7 +5,7 @@ A fun, turn-based, onchain racing game where players race electric scooters on t
 ![scooter-race-banner](https://user-images.githubusercontent.com/0000000/0000000/scooter-banner.png)  
   
 ---  
-
+  
 ## 🎮 Game Overview
 
 - 👥 Up to **4 players per race**
