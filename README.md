@@ -16,7 +16,7 @@ A fun, turn-based, onchain racing game where players race electric scooters on t
 - ❌ No rewards, no staking, no gas abuse   
  
 --- 
- 
+  
 ## 🚀 Quick Start
 
 ### 1. Clone this repo
