@@ -14,7 +14,7 @@ A fun, turn-based, onchain racing game where players race electric scooters on t
 - 🛡️ 100% onchain logic in Solidity 
 - 🔄 Turn-based multiplayer  
 - ❌ No rewards, no staking, no gas abuse   
-
+ 
 ---
  
 ## 🚀 Quick Start
