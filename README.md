@@ -1,7 +1,7 @@
 # 🛴 Scooter Races — Onchain Electric Scooter Racing Game    
      
 A fun, turn-based, onchain racing game where players race electric scooters on the Ethereum blockchain. Built purely with Solidity. No tokens. No betting. Just racing.     
-  
+   
 ![scooter-race-banner](https://user-images.githubusercontent.com/0000000/0000000/scooter-banner.png)  
   
 ---  
