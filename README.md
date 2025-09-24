@@ -7,7 +7,7 @@ A fun, turn-based, onchain racing game where players race electric scooters on t
 ---     
       
 ## 🎮 Game Overview    
-  
+   
 - 👥 Up to **4 players per race**   
 - 📏 First to reach **100 units** wins 
 - 🎲 Each move = **random speed (1–10 units)**
