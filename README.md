@@ -20,7 +20,7 @@ A fun, turn-based, onchain racing game where players race electric scooters on t
 ## 🚀 Quick Start
  
 ### 1. Clone this repo  
- 
+  
 ```bash
 git clone https://github.com/yourname/scooter-races-solidity.git
 cd scooter-races-solidity
