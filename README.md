@@ -10,7 +10,7 @@ A fun, turn-based, onchain racing game where players race electric scooters on t
       
 - 👥 Up to **4 players per race**       
 - 📏 First to reach **100 units** wins     
-- 🎲 Each move = **random speed (1–10 units)**   
+- 🎲 Each move = **random speed (1–10 units)**    
 - 🛡️ 100% onchain logic in Solidity  
 - 🔄 Turn-based multiplayer   
 - ❌ No rewards, no staking, no gas abuse    
